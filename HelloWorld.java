@@ -3,5 +3,6 @@ class Demo{
 	{
 		System.out.println("Solai");
 		I was a Stupid;
+		Alway be Happy!.
 	}
 }
