@@ -1,0 +1,42 @@
+*{
+	margin:0;
+	padding:0;
+	font-family: "open sans"
+}
+.keys
+{
+	height:50px;
+	width :50px;
+	cursor: pointer;
+	font-size: 25;
+	color:#030d18;
+	background:#cfe919;
+	border:none;
+	margin :2px
+
+
+}
+.monitor
+{
+	padding:10px;
+	width:222px;
+	font-size: 25px;
+	color:#f5f7f8;
+	margin:2px;
+	border:none;
+	background:#8BC34A
+	
+
+}
+.calc
+{
+	position: absolute;
+	top:50%;
+	left :50%;
+	transform: translateX(-50%) translateY(-50%);
+}
+.body
+{
+	background:#f0edf5;
+	height: 100%;
+}
